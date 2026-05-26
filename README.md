@@ -1,8 +1,10 @@
-## Hi there 👋
+
 
 <p align="center">
   <img src="Banner.gif" width="1200"/>
 </p>
+
+## Hi there 👋
 <!--
 **harshepandeyofficial/harshepandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
