@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  <img src="Banner.gif" width="700"/>
+  <img src="Banner.gif" width="1200"/>
 </p>
 <!--
 **harshepandeyofficial/harshepandeyofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
