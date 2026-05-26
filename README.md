@@ -1,4 +1,3 @@
-##
 <p align="center">
   <img src="Banner.gif" width="1200"/>
 </p>
