@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Engineer • Forward Deployed Engineering  • LLM Orchestration • Content Creator • Lifelong Learner
+  Backend Engineer • ML Research Engineer • LLM Orchestration • Content Creator • Lifelong Learner
 </h3>
 
 
@@ -144,17 +144,30 @@ Overall Statistics
 
 <h2 align="left">💵 Support My Work</h2>
 
+<table align="Center" style="padding-left: 40px;" border="0">
+  <tr>
+    <!-- LEFT SIDE : PATREON BUTTON -->
+    <td align="left" width="50%" border="0">
+      <a href="https://patreon.com/HarshePandey?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank">
+        <img 
+          src="https://img.shields.io/badge/Support%20Me-Patreon-7C3AED?style=for-the-badge&logo=patreon&logoColor=white" 
+          alt="Support Me on Patreon"
+        />
+      </a>
+    </td>
+    <!-- RIGHT SIDE : PATREON GIF -->
+    <td align="right" width="50%" border="0">
+      <img 
+        src="./bannerpay1.gif"
+        width="220"
+        alt="Patreon GIF"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="left">
-  <a href="https://patreon.com/HarshePandey?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Support%20Me-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" 
-      alt="Support Me on Patreon"
-    />
-  </a>
+---
+
+<p align="center">
+  <img src="footerbanner1.gif" width="100%" height="320"/>
 </p>
-
-
-
-
-
