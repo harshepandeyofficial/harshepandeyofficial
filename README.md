@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Engineer • AI Systems • Java • Spring Boot • LLM Orchestration
+  Backend Engineer • Forward Deployed Engineering  • LLM Orchestration • Content Creator • Lifelong Learner
 </h3>
 
 
