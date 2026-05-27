@@ -15,7 +15,7 @@
 
 
 
-<h3 align="center">You can connect  with me on <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fb/512.gif" alt="🤝" width="35"> </h3>
+<h3 align="center">You can connect  with me on <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f91d_1f3fb/512.gif" alt="🤝" width="20"> </h3>
 
 <br>
 
@@ -27,20 +27,20 @@
 
 <p align="left">
 
-🔭 I’m currently working on Java, Spring Boot & LLM Apps
+🔴 Currently building scalable backend systems, LLM applications & orchestration workflows
 
-👯 I’m looking to collaborate on Backend & AI Projects
+🟠 Collaborating on backend engineering, ML research & advanced agentic AI workflows
 
-🤝 I’m looking for help with System Design & DevOps
+🟡 Exploring distributed systems, cloud platforms & modern DevOps practices
 
-🌱 I’m currently learning Kafka, Kubernetes & AI Agents
+🟢 Learning Kafka, Kubernetes, AI agents & orchestration systems
 
-💬 Ask me about Java, APIs & AI Workflows
+🔵 Ask me about APIs, backend architecture & LLM pipelines
 
-⚡ Fun fact: Octopuses have three hearts
+🟣 Fun fact: Octopuses have three hearts
 
 </p>
-
+<br>
 
 
 <h2 align="left">🛠 Language & Tools</h2>
@@ -103,7 +103,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="42" alt="figma logo" />
 
 </div>
-
+<br>
 
 <h2 align="left">📊 GitHub Analytics:</h2>
 
@@ -141,9 +141,9 @@ Overall Statistics
     </td>
   </tr>
 </table>
-
+<br>
 <h2 align="left">💵 Support My Work</h2>
-
+<br>
 <table align="Center" style="padding-left: 40px;" border="0">
   <tr>
     <!-- LEFT SIDE : PATREON BUTTON -->
@@ -165,9 +165,8 @@ Overall Statistics
     </td>
   </tr>
 </table>
-
----
+<br>
 
 <p align="center">
-  <img src="footerbanner1.gif" width="100%" height="320"/>
+  <img src="footerbanner2.gif" width="100%" height="320"/>
 </p>
