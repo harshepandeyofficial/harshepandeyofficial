@@ -13,15 +13,24 @@ jobs:
       contents: write
 
     steps:
-      - name: Generate contribution graph
+      - name: Create output folder
+        run: mkdir -p dist
+
+      - name: Generate graph
         uses: Platane/snk@master
         with:
           github_user_name: harshepandeyofficial
-          outputs: |
-            dist/galaga-contribution-graph.svg
-            dist/galaga-contribution-graph-dark.svg
+          svg_out_path: dist/galaga-contribution-graph.svg
 
-      - name: Publish to output branch
+      - name: Generate dark graph
+        uses: Platane/snk@master
+        with:
+          github_user_name: harshepandeyofficial
+          svg_out_path: dist/galaga-contribution-graph-dark.svg
+          color_snake: '#39FF14'
+          color_dots: '#0d1117'
+
+      - name: Deploy to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: pacman-output
