@@ -106,6 +106,13 @@
 
 
 <h2 align="left">📊 GitHub Analytics:</h2>
+
+Contribution Graph
+<p align="center">
+<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+Monthly Contributions
 <p align="center">
   <img 
     height="310em" 
@@ -117,7 +124,7 @@
 
 
 
-
+Overall Statistics
 <table align="center">
   <tr>
     <td align="center" width="50%">
@@ -135,13 +142,19 @@
   </tr>
 </table>
 
+<h2 align="left">💵 Support My Work</h2>
 
----space shooter 
-<p align="center">
-<img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+
+<p align="left">
+  <a href="https://patreon.com/HarshePandey?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Support%20Me-Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" 
+      alt="Support Me on Patreon"
+    />
+  </a>
 </p>
 
----
+
 
 
 
