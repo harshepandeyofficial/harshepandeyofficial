@@ -144,6 +144,4 @@
 
 ---
 
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&theme=radical" width="100%"/>
-</div>
+
