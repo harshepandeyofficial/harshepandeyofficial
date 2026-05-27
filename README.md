@@ -27,8 +27,6 @@
 
 <p align="left">
 
-🇮🇳 I’m from India, passionate about Backend Engineering & AI Systems
-
 🔭 I’m currently working on Java, Spring Boot & LLM Apps
 
 👯 I’m looking to collaborate on Backend & AI Projects
@@ -67,18 +65,15 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="42" alt="kubernetes logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="42" alt="kafka logo" />
-<img width="12" />
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="42" alt="aws logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="42" alt="azure logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="42" alt="gcp logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="42" alt="jenkins logo" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="42" alt="github logo" />
-<img width="12" />
+
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo" />
@@ -110,8 +105,21 @@
 </div>
 
 ---
+<h2 align="left">📊 GitHub Analytics:</h2>
 
+<p align="center">
 
+  <img 
+    src="https://streak-stats.demolab.com/?user=harshepandeyofficial&theme=default&hide_border=false"
+    width="420"
+  />
+
+  <img 
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshepandeyofficial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    width="420"
+  />
+
+</p>
 
 ---
 
