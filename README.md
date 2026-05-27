@@ -137,9 +137,9 @@
 <h2 align="center">🎮 Pacman Contribution Graph</h2>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/harshepandeyofficial/harshepandeyofficial/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
 ---
