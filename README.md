@@ -21,7 +21,7 @@
 
 <p align="center"> <a href="https://www.github.com/harshepandeyofficial" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/harshepandey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.linkedin.com/in/harshepandey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://discord.com/users/harshepandey_34831" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
 
----
+
 
 <h2 align="left">👨‍💻 About Me</h2>
 
@@ -41,7 +41,7 @@
 
 </p>
 
----
+
 
 <h2 align="left">🛠 Language & Tools</h2>
 
@@ -104,23 +104,24 @@
 
 </div>
 
----
+
 <h2 align="left">📊 GitHub Analytics:</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=harshepandeyofficial&theme=default&hide_border=false" width="420" />
+    </td>
+    <td align="center" width="50%" rowspan="2">
+      <img src="./sidebanner1.gif" width="450" height="400" alt="banner" />
+    </td>
+  </tr>
 
-<p align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshepandeyofficial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="420" />
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://streak-stats.demolab.com/?user=harshepandeyofficial&theme=default&hide_border=false"
-    width="420"
-  />
-
-  <img 
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=harshepandeyofficial&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-    width="420"
-  />
-
-</p>
-
----
 
 
