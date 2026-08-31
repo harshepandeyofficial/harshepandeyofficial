@@ -112,15 +112,6 @@ Contribution Graph
 <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-Monthly Contributions
-<p align="center">
-  <img 
-    height="310em" 
-    width="100%" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=harshepandeyofficial&theme=vue&radius=10" 
-    alt="harshepandeyofficial's Activity Graph" 
-  />
-</p>
 
 
 
